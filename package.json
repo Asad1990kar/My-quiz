@@ -9,7 +9,7 @@
   },
   "author": "",
   "license": "MIT",
-  "description": "",
+  "description": "I made a simple quiz by my-self",
   "dependencies": {
     "inquirer": "^9.2.20"
   },
