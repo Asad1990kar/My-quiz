@@ -1,6 +1,6 @@
 {
   "name": "@asad1990kar/my-quiz",
-  "version": "2.0.1",
+  "version": "2.1.1",
   "main": "main.js",
   "type": "module",
   "bin": "main.js",
